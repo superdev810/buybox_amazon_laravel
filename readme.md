@@ -1,23 +1,4 @@
-![](https://cloud.githubusercontent.com/assets/2946769/13175239/6950a682-d709-11e5-910e-b065a6cf5617.jpg)
-
-# Laravel Hackathon Starter - SUSUMU 進
-![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg) [![Build Status](https://img.shields.io/travis/unicodeveloper/laravel-hackathon-starter.svg)](https://travis-ci.org/unicodeveloper/laravel-hackathon-starter) [![Quality Score](https://img.shields.io/scrutinizer/g/unicodeveloper/laravel-hackathon-starter.svg?style=flat-square)](https://scrutinizer-ci.com/g/unicodeveloper/laravel-hackathon-starter)
-
-If you have attended any hackathons in the past, then you know how much time it takes to get a project started: decide on what to build, pick a programming language, pick a web framework, pick a CSS framework. A while later, you might have an initial project up on GitHub and only then can other team members start contributing. Or how about doing something as simple as *Sign in with Facebook* authentication? You can spend hours on it if you are not familiar with how OAuth 2.0 works.
-
-Even if you are not using this for a hackathon, Laravel Hackathon Starter is sure to save any developer hours or even days of development time and can serve as a learning guide for web developers.
-
-Laravel is a web application framework with expressive, elegant syntax. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
-
-Laravel Hackathon Starter is a boilerplate application developed with Laravel 5.2 to keep you ahead in hackathons.
-
-<h4 align="center">Modern Theme</h4>
-
-![](https://cloud.githubusercontent.com/assets/2946769/13172250/83f1ff5c-d6f7-11e5-9fb6-abc44ef0b550.png)
-
-<h4 align="center">API Examples</h4>
-
-![](https://cloud.githubusercontent.com/assets/2946769/13172331/d0a46b8c-d6f7-11e5-9aff-954f75133155.png)
+# Laravel Amazon Buybox
 
 Table of Contents
 -----------------
