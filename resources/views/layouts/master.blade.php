@@ -2,8 +2,8 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width">
-    <title>Laravel Hackathon Starter App</title>
-    <meta name="description" content="This is a boilerplate for building Hackathon apps">
+    <title>Amazon Buybox</title>
+    <meta name="description" content="This is amazon buybox for amazon sellers">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.12.0/bootstrap-social.min.css">
